@@ -1,6 +1,8 @@
 import React from 'react'
+import './styles/Weather.css'
 
 const Weather = (props) => {
+
     return (
         <div className='container text-light'>
             <div className="cards pt-4">
